@@ -14,6 +14,6 @@ This application does **NOT** collect your data or use the Internet, so don't wo
 
 ## Payment/Feedback/Ideas/Any usage
 
-This application is totally **free**, but (obviously) all donations are welcome) To live a feedback or if you have an idea, welcome to my TG (t.me/PowerOfTheCosmos (English/Russian/German/French)).
+This application is totally **free**, but (obviously) all donations are welcome) To live a feedback or if you have an idea, welcome to my TG ([Telegram](t.me/PowerOfTheCosmos) (English/Russian/German/French)).
 In case you'd like to use this anywhere in your projects, please put my authorship somewhere, or, if it's convinient, notify me.
 For bugs open a new issue and I'll try to help. Any forks/stars are welcome!)
